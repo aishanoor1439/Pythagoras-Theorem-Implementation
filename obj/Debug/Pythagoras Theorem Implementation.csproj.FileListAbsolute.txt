@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\obj\Debug\Pythagoras Theorem Implementation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\obj\Debug\Pythagoras Theorem Implementation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\bin\Debug\Pythagoras Theorem Implementation.exe.config
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\bin\Debug\Pythagoras Theorem Implementation.exe
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\bin\Debug\Pythagoras Theorem Implementation.pdb
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\obj\Debug\Pythagoras Theorem Implementation.exe
+C:\Users\DELL\source\repos\Pythagoras Theorem Implementation\Pythagoras Theorem Implementation\obj\Debug\Pythagoras Theorem Implementation.pdb
